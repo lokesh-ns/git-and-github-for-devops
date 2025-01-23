@@ -1,9 +1,0 @@
-git --version
-git init
-git add .
-git status
-git commit -m "adding test.py"
-git status
-git remote add origin https://github.com/lokesh-ns/git-and-github-for-devops.git
-git remote -v
-git push origin master
